@@ -19,3 +19,6 @@ What we have did here is below :
 7. DELETE UNUSED COLUMNS
 
 8. CAST TO APPROPRIATE DATATYPE
+
+
+RESOURCES - https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f
