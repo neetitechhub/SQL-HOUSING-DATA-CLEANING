@@ -1,8 +1,8 @@
 # Housing-Data-Cleaning
 
-**Data cleaning **
+# Data cleaning
 
-**What we have did here is below : **
+What we have did here is below :
 
 1. STANDARDIZE DATE FORMAT
 
