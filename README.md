@@ -1,4 +1,4 @@
-# Housing-Data-Cleaning
+# Housing-Data-Cleaning SQL
 
 # Data cleaning
 
