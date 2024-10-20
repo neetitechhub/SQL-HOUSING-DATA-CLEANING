@@ -1,6 +1,6 @@
 # Housing-Data-Cleaning SQL
 
-# Data cleaning  Steps Completed:
+**Data cleaning  Steps Completed:**
 
 1. Standardized Date Format: Ensured consistent date formatting across the dataset.
 2. Ensured Correct Data Types: Verified that data types were applied correctly without unintentional updates.
